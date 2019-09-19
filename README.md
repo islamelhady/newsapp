@@ -1,1 +1,1 @@
-# simple-recyclerview
+# news-app
