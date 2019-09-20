@@ -9,5 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        //  https://newsapi.org/v2/sources?language=en&apiKey=e4befc80710444afa7f93f67a5790d57
     }
 }
