@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <android.support.v7.widget.RecyclerView
+        tools:listitem="@layout/source_layout"
         android:id="@+id/list_source"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
