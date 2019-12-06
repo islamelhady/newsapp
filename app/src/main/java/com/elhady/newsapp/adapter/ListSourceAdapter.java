@@ -16,7 +16,7 @@ import com.elhady.newsapp.models.WebSite;
 import de.hdodenhof.circleimageview.CircleImageView;
 
 
-public class ListSourceAdapter extends RecyclerView.Adapter<ListSourceViewHolder> {
+public class ListSourceAdapter extends RecyclerView.Adapter<ListSourceAdapter.ListSourceViewHolder> {
     private Context context;
     private WebSite webSite;
 
